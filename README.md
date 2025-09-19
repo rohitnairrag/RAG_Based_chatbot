@@ -1,2 +1,2 @@
-# RAG_Based_chatbot
-this is a Rag based chatbot
+# RAG Based Chatbot
+This is a RAG Based Chatbot
